@@ -6,6 +6,6 @@ https://stellar-custard-17e94a.netlify.app
 
 Tecnologías utilizadas:
 
-React
-Gatsby
-GraphQL
+- React
+- Gatsby
+- GraphQL
